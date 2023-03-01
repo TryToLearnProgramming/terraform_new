@@ -4,7 +4,8 @@
 */*/.terraform/
 */terraform.tfstate.backup
 */*/terraform.tfstate.backup
-
+*/terraform.tfstate
+*/*/terraform.tfstate
 # Local .terraform directories
 **/.terraform/*
 
